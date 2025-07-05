@@ -76,7 +76,7 @@ To access Censys enrichment data, create a free account at [Censys.io](https://c
 
 ## License
 
-MIT License © portPulse Team
+MIT License © Ammy
 
 ---
 
